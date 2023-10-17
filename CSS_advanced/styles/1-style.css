@@ -1,0 +1,5 @@
+/* Task 1 - Fluid Scrolling */
+
+html {
+    scroll-behavior: smooth;
+}
